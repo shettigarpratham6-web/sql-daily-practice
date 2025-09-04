@@ -1,4 +1,4 @@
-# sql-daily-practice
+<center># sql-daily-practice</center>
 <br>
 
 <div align="center">
