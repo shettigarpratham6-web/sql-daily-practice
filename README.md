@@ -7,7 +7,7 @@
 
 <body>
     <table>
-        <caption>Students</caption>
+        <caption><h3>Students table</h3></caption>
         <tr>
             <th>StudentID</th>
             <th>FirstName</th>
