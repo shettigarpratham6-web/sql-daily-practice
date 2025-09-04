@@ -2,9 +2,10 @@
 <br>
 
 <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=6DNtZZtDIKKY&format=png&color=000000" 
-       alt="SQL Badge" width="120"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" 
+       alt="SQL Logo" width="120"/>
 </div>
+
 
 
 <body>
