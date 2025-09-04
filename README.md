@@ -2,8 +2,10 @@
 <br>
 
 <div align="left">
-  <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL Logo" width="120"/>
+  <img src="https://img.icons8.com/?size=100&id=6DNtZZtDIKKY&format=png&color=000000" 
+       alt="SQL Badge" width="120"/>
 </div>
+
 
 <body>
     <table>
